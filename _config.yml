@@ -2,9 +2,9 @@
 title: Anthony Pasquariello
 email: antpas@bu.edu
 url: https://antpas.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "My name is Anthony Pasquariello. I'm a Computer Engineering student at Boston University. I'm passionate about technology and it's affects on our society."
 skills: "Computer Engineering Student - Second Year"
-meta_author: LastName FirstName
+meta_author: Pasquariello Anthony
 
 # Google webmaster tools
 google_verify:
@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Anthony Pasquariello
   location: Location
   social: Around the Web
   credits: Credits
