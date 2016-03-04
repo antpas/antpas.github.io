@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tester
+title: Blueport Commerce: Boston, MA
 modal-id: 1
 date: 2016-03-03
 img: blueport.png
