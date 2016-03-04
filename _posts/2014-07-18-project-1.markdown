@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2016-03-03
-img: qualcommnew.png
+img: blueport.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
