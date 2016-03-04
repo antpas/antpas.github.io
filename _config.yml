@@ -38,8 +38,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: linkedin
+    url: www.linkedin.com/in/anthonypasquariello
   - title: facebook
     url:
   - title: stack-overflow
@@ -51,7 +51,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 8 St Mary's Street
+  - line: 8 St. Mary's Street
   - line: Boston, MA 02215
 
 # Credits content
