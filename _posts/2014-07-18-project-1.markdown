@@ -1,6 +1,7 @@
 ---
 layout: default
-modal-id: Test
+title: Tester
+modal-id: 1
 date: 2016-03-03
 img: blueport.png
 alt: image-alt
