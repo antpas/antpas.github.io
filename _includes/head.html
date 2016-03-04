@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="{{ "/style.css" }}">
 
     <!-- Google verification -->
-    google-site-verification=nmAxgCgXsYLLJBAerrtVahiJH_zw_bcFbPkPe3zmFX8
+  {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
 
     <!-- Bing Verification -->
     {% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
