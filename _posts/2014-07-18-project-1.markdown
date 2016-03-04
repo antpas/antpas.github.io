@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2016-03-03
-img: blueport.png
+img: blueport.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
