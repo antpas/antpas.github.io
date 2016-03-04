@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Information Technology Systems Intern
+title: IT Systems Intern
 modal-id: 1
 date: 2016-03-03
 img: blueport.png
