@@ -42,12 +42,12 @@ social:
     url: http://linkedin.com/in/anthonypasquariello
   - title: twitter
     url: https://twitter.com/PasAnthony
-  - title: stackoverflow
+  - title: stack-overflow
     url: http://stackoverflow.com/users/6018955/anthony-pasquariello?tab=profile
-  - title: bitbucket
-    url: 
   - title: github
     url: https://github.com/antpas
+  - title: bitbucket
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
