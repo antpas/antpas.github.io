@@ -10,5 +10,6 @@ client: Start Bootstrap
 category: Web Development
 description: Participated in technology and career oriented workshops. Learned about the wireless industry and took part in a hackathon. Learn more about the conference [here](https://github.com/antpas.github.io/master/img/deca.pdf)
 
+
 ---
 
