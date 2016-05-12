@@ -8,6 +8,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Test
+description: Participated in technology and career oriented workshops. Learned about the wireless industry and took part in a hackathon.
 
 ---
