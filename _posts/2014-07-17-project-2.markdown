@@ -8,6 +8,6 @@ alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
 category: Web Development
-description:  Participated in technology and career oriented workshops. Learned about the wireless industry and took part in a hackathon. Learn more about the conference [here](http://publish.illinois.edu/engineering-mep/files/2014/11/DECA-2015-Handout.pdf)
+description:  Participated in technology and career oriented workshops. Learned about the wireless industry and took part in a hackathon. Learn more about the conference [here](antpas.github.io/img/deca.pdf)
 
 ---
