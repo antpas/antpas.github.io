@@ -6,6 +6,6 @@ date: 2016-03-03
 img: blueport.png
 alt: image-alt
 project-date: May 2015 - May 2016
-description: * Researched and developed automation software for 100 corporate machines. * Presented in front of company to share my work on automation project * Automation software allowed for streamlined deployment and monitoring of software
+description: Researched and developed automation software for 100 corporate machines. Presented in front of company to share my work on automation project. Automation software allowed for streamlined deployment and monitoring of software
 
 ---
