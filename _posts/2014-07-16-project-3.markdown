@@ -8,5 +8,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Test
+description: During my Engineering Design course, I had to design and build a load machine for Gillette Corporation. This load machine tested various pieces of metal in order to check their breaking points.
 ---
