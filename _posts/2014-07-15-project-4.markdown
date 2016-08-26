@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 4
+title: Summer Technology Analyst
 date: 2014-07-15
 img: jpmorgan.png
 alt: image-alt
